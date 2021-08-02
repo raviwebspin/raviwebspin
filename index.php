@@ -1,1 +1,5 @@
-sddssd dd
+<?php 
+	
+	echo "yes";
+	
+	?>
