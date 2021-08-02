@@ -1,5 +1,5 @@
 <?php 
 	
-	echo "yes";
+	echo "yes how r you";
 	
 	?>
